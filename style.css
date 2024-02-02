@@ -172,7 +172,7 @@ main p{
     
 }
 #head3{
-    /* background-color: white; */
+    background-color: white; 
     display: flex;
     flex-direction:column;
     background-image: url('images/backgroundTexture.jpeg');
