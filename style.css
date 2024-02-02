@@ -175,7 +175,7 @@ main p{
     background-color: white; 
     display: flex;
     flex-direction:column;
-    background-image: url('images/backgroundTexture.jpeg');
+    background-image: url('Images/backgroundTexture.jpeg');
     background-repeat:no-repeat ;
     background-size:70% 90%;
     background-position: center;
